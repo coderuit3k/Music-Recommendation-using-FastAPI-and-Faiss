@@ -1,0 +1,4 @@
+.env
+.venv/
+universal_top_spotify_songs.csv
+music.index
