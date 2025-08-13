@@ -51,6 +51,7 @@ This project requires the following dependencies:
 
 - **Programming Language:** Python
 - **Package Manager:** Pip
+- **Dataset:** https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated/data
 
 ### Installation
 
