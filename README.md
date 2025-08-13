@@ -95,9 +95,3 @@ Music-recommendation-using-fastapi-and-faiss uses the {__test_framework__} test 
 ```sh
 pytest
 ```
-
----
-
-<div align="left"><a href="#top">⬆ Return</a></div>
-
----
